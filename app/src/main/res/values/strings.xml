@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Climaapp</string>
+    <string name="grados">16~</string>
+    <string name="ciudad">Intibucá</string>
+    <string name="estado">Parcialmente lluvioso</string>
+
+    <string name="titulo">Climas Locales Intibucá</string>
+    <string name="bienvenida">Muchas gracias por preferirnos y visualizar el clima con nosotros</string>
+    <string name="intibuca">Intibucá, Intibucá</string>
+    <string name="laeza">La Esperanza, Intibucá</string>
+    <string name="camasca">Camasca, Intibucá</string>
+</resources>
